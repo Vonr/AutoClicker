@@ -28,4 +28,4 @@ gradle/
 build/
 
 # IDE
-iidea/
+.idea/
